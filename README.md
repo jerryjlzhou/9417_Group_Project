@@ -7,7 +7,8 @@
 |----------------|------------|
 | Jerry Zhou     | z5477946   |
 | Omer Rizwan    | z5453492   |
-| Member 3       | z          |
+| Mohammed Amaan | z5629412   |
 | Member 4       | z          |
 
 | Member 5       | z          |
+
